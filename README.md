@@ -42,3 +42,8 @@ render(app, document.body);
 ```
 
 Some changes may occur here as React [attempting to optimise the JSX transformation](https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html), which will likely in time ripple out to the rest of the ecosystem.
+
+## Notes
+
+1. TypeScript: From source to TypeScript output folder
+2. Rollup: From TypeScipt output to destination folder

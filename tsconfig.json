@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json.schemastore.org/tsconfig",
+    "compilerOptions": {
+        "module": "esNext",
+        "moduleResolution": "node",
+        "noEmitHelpers": true,
+        "declaration": true,
+        "target": "es2020",
+        "outDir": "./dist/",
+        "sourceMap": true,
+        "strict": true
+    }
+}
